@@ -253,7 +253,7 @@ img {
 }
 
 #Header, .navbar, nav {
-	font-size: 40px ;
+	font-size: 30px ;
 	overflow: auto;
 	clear: both;
 	z-index: 50;
